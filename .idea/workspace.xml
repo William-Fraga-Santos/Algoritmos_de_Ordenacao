@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94ab1e9b-df55-42fd-92dd-24fe427e1886" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Insertion Sort/home.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Insertion Sort/home.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Insertion Sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos-de-Ordenacao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +38,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Home">
     <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Home" />
-      <module name="Insertion Sort" />
+      <module name="Algoritmos-de-Ordenacao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="home" />
-      <module name="Insertion Sort" />
+      <module name="Algoritmos-de-Ordenacao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,33 +76,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="261" key="GridCell.Tab.0.bottom" timestamp="1592701002958">
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom" timestamp="1592702159748">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="238" key="GridCell.Tab.0.bottom/-1366.0.1366.724/0.0.1440.900@0.0.1440.900" timestamp="1592698549860" />
     <state width="1398" height="238" key="GridCell.Tab.0.bottom/-1366.0.1366.768/0.0.1440.856@0.0.1440.856" timestamp="1592699361199" />
-    <state width="1398" height="261" key="GridCell.Tab.0.bottom/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592701002958" />
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592702159748" />
     <state width="1398" height="261" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592700297334" />
-    <state width="1398" height="261" key="GridCell.Tab.0.center" timestamp="1592701002954">
+    <state width="1398" height="261" key="GridCell.Tab.0.center" timestamp="1592702159744">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="238" key="GridCell.Tab.0.center/-1366.0.1366.724/0.0.1440.900@0.0.1440.900" timestamp="1592698549856" />
     <state width="1398" height="238" key="GridCell.Tab.0.center/-1366.0.1366.768/0.0.1440.856@0.0.1440.856" timestamp="1592699361195" />
-    <state width="1398" height="261" key="GridCell.Tab.0.center/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592701002954" />
+    <state width="1398" height="261" key="GridCell.Tab.0.center/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592702159744" />
     <state width="1398" height="261" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592700297332" />
-    <state width="1398" height="261" key="GridCell.Tab.0.left" timestamp="1592701002952">
+    <state width="1398" height="261" key="GridCell.Tab.0.left" timestamp="1592702159741">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="238" key="GridCell.Tab.0.left/-1366.0.1366.724/0.0.1440.900@0.0.1440.900" timestamp="1592698549854" />
     <state width="1398" height="238" key="GridCell.Tab.0.left/-1366.0.1366.768/0.0.1440.856@0.0.1440.856" timestamp="1592699361194" />
-    <state width="1398" height="261" key="GridCell.Tab.0.left/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592701002952" />
+    <state width="1398" height="261" key="GridCell.Tab.0.left/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592702159741" />
     <state width="1398" height="261" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592700297331" />
-    <state width="1398" height="261" key="GridCell.Tab.0.right" timestamp="1592701002956">
+    <state width="1398" height="261" key="GridCell.Tab.0.right" timestamp="1592702159746">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="238" key="GridCell.Tab.0.right/-1366.0.1366.724/0.0.1440.900@0.0.1440.900" timestamp="1592698549858" />
     <state width="1398" height="238" key="GridCell.Tab.0.right/-1366.0.1366.768/0.0.1440.856@0.0.1440.856" timestamp="1592699361197" />
-    <state width="1398" height="261" key="GridCell.Tab.0.right/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592701002956" />
+    <state width="1398" height="261" key="GridCell.Tab.0.right/-1366.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1592702159746" />
     <state width="1398" height="261" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592700297333" />
   </component>
 </project>
